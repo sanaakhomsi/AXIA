@@ -2,6 +2,8 @@
 
 <h3 align="center">Your MRI results, explained.</h3>
 
+<p align="center"><a href="https://axia-lemon.vercel.app"><b>Try AXIA live →</b></a></p>
+
 <p align="center"><b>Prototype</b> · for education only · AXIA does not replace a doctor.</p>
 
 ---
