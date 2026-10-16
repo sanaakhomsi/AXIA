@@ -21,6 +21,7 @@ AXIA helps people make sense of their own MRI scans. Upload your images, step in
   - Without a report: an AI preliminary read of the images.
   - With a report: the radiologist's conclusion explained, side by side with the AI's read.
 - **Understand your body:** a lesson for each image, with numbered parts, what each one does, how MRI shows it, a short quiz, and a downloadable, printable study report.
+- **Prepare for your appointment:** a printable summary to bring to your doctor, with the report in plain words, the AI's read clearly marked as unverified, the spots you pinned and your questions. It is made on your device; nothing is uploaded.
 - **Report explainer:** inside the Diagnosis panel; medical terms in your report defined in plain words, with questions to ask your doctor.
 
 ## Deploy it with the AI working (recommended: Vercel)
